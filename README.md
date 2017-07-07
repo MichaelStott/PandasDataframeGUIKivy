@@ -15,6 +15,18 @@ $ python demo.py
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/MichaelStott/DataframeGUIKivy/master/docs/sc2.png">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MichaelStott/DataframeGUIKivy/master/docs/sc3.png">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MichaelStott/DataframeGUIKivy/master/docs/sc4.png">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/MichaelStott/DataframeGUIKivy/master/docs/sc5.png">
 </p>
 
